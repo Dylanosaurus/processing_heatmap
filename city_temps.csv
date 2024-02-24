@@ -1,0 +1,49 @@
+Month,City,Temp
+January,Houston,53.8
+February,Houston,57.7
+March,Houston,63.8
+April,Houston,70
+May,Houston,77.4
+June,Houston,83
+July,Houston,85.1
+August,Houston,85.2
+September,Houston,80.5
+October,Houston,71.8
+November,Houston,62
+December,Houston,55.4
+January,San Diego,58.4
+February,San Diego,59
+March,San Diego,60.7
+April,San Diego,62.9
+May,San Diego,64.8
+June,San Diego,67.2
+July,San Diego,70.7
+August,San Diego,72.4
+September,San Diego,71.7
+October,San Diego,68.1
+November,San Diego,62.7
+December,San Diego,57.9
+January,Death Valley,54.9
+February,Death Valley,61.3
+March,Death Valley,69.8
+April,Death Valley,77.9
+May,Death Valley,87.8
+June,Death Valley,97.5
+July,Death Valley,104.2
+August,Death Valley,102.3
+September,Death Valley,93.4
+October,Death Valley,78.9
+November,Death Valley,64
+December,Death Valley,53.4
+January,Chicago,25.2
+February,Chicago,28.8
+March,Chicago,39
+April,Chicago,49.7
+May,Chicago,60.6
+June,Chicago,70.6
+July,Chicago,75.4
+August,Chicago,73.8
+September,Chicago,66.3
+October,Chicago,54
+November,Chicago,41.3
+December,Chicago,30.5
