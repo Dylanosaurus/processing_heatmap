@@ -1,4 +1,4 @@
-// Adapted from Dan Orban's program above
+// Adapted from Dan Orban's program written in R
 import java.util.Arrays;
 
 void setup() {
